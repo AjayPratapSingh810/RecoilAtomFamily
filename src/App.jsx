@@ -1,7 +1,6 @@
-import Todo from './components/Todo'
 import './App.css'
 import { RecoilRoot } from 'recoil'
-
+import Todo from './components/Todo'
 function App() {
 
   return (
